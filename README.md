@@ -14,9 +14,8 @@ The Labinator Medical Symptom Checker is designed to help you understand the pos
 
 Our mission is to create a free and open source medical symptom checker where all doctors and developers can contribute to it.
 
-## Live Demo
 
-- Live demo on GitHub.io: https://labinatorsolutions.github.io/medical-symptom-checker/
+
 
 ## Features
 
