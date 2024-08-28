@@ -1,18 +1,10 @@
-# Labinator Medical Symptom Checker
 
-![GUI](https://img.shields.io/badge/GUI-USWDS_2.7.1-0B1013)
-![Language](https://img.shields.io/badge/Language-JavaScript-026300)
-![JS Library](https://img.shields.io/badge/JS_Library-React-0047AB)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-5D185B)
-![Known Bugs](https://img.shields.io/badge/Known_Bugs-0-D83933)
 
 ## Description
 
 The Labinator Medical Symptom Checker is designed to help you understand the possible causes of symptoms in children and adults.
 
-## Mission
 
-Our mission is to create a free and open source medical symptom checker where all doctors and developers can contribute to it.
 
 
 
